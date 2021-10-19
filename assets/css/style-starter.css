@@ -10313,11 +10313,11 @@ nav ul li a:hover {
     .w3l-index4 .new-block {
       background-size: cover;
       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.33)), url(../images/LBS5.jpg);
-      background-repeat: no-repeat, no-repeat, no-repeat;
+      /* background-repeat: no-repeat, no-repeat, no-repeat; */
       background-position: center;
       background-attachment: fixed;
-      min-height: 480px;
-      display: grid;
+      /* min-height: 480px;
+      display: grid; */
       align-items: center;
       padding: 2rem 0; }
   }
