@@ -10314,8 +10314,8 @@ nav ul li a:hover {
       background-size: cover;
       background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.33)), url(../images/LBS5.jpg);
       /* background-repeat: no-repeat, no-repeat, no-repeat; */
-      /* background-position: center;
-      background-attachment: fixed; */
+      background-position: center;
+      background-attachment: fixed;
       /* min-height: 480px;
       display: grid; */
       align-items: center;
